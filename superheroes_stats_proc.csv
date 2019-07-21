@@ -6,7 +6,7 @@ Abin Sur,50.0,90.0,53.0,64.0,84.0,65.0,406.0,Male,Good,DC,92.0
 Abomination,63.0,80.0,53.0,90.0,55.0,95.0,436.0,Male,Other,Marvel,1.0
 Abraxas,88.0,100.0,83.0,99.0,100.0,56.0,526.0,Male,Bad,Marvel,0.0
 Adam Monroe,63.0,10.0,12.0,100.0,71.0,64.0,320.0,Male,Good,Other,0.0
-Adam Strange,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Male,Good,DC,177.0
+Adam Strange,145.0,100.0,40.0,40.0,37.0,50.0,412.0,Male,Good,DC,177.0
 Agent  13,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Other,Other,Other,0.0
 Agent Bob,10.0,8.0,13.0,5.0,5.0,20.0,61.0,Male,Good,Marvel,0.0
 Agent Zero,75.0,28.0,38.0,80.0,72.0,95.0,388.0,Male,Good,Marvel,0.0
@@ -50,7 +50,7 @@ Atom IV,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Male,Good,DC,0.0
 Aurora,50.0,15.0,83.0,56.0,69.0,56.0,329.0,Female,Bad,DC,1.0
 Azazel,50.0,11.0,47.0,95.0,87.0,80.0,370.0,Male,Good,Marvel,0.0
 Azrael,63.0,18.0,17.0,20.0,35.0,80.0,233.0,Male,Other,DC,37.0
-Aztar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Male,Good,DC,436.0
+Aztar,170.0,100.0,120.0,100.0,572.0,80.0,1142.0,Male,Good,DC,436.0
 Bane,88.0,53.0,23.0,56.0,51.0,95.0,366.0,Male,Bad,DC,157.0
 Banshee,50.0,10.0,58.0,42.0,60.0,70.0,290.0,Male,Good,Marvel,0.0
 Bantam,25.0,53.0,23.0,54.0,21.0,56.0,232.0,Male,Good,Marvel,0.0
@@ -233,7 +233,7 @@ Flash II,63.0,10.0,100.0,60.0,66.0,32.0,331.0,Male,Good,DC,0.0
 Flash III,63.0,10.0,100.0,60.0,83.0,32.0,348.0,Male,Good,DC,0.0
 Flash IV,63.0,10.0,100.0,32.0,59.0,48.0,312.0,Male,Good,DC,0.0
 Forge,63.0,10.0,12.0,28.0,12.0,48.0,173.0,Male,Good,Marvel,276.0
-Franklin Richards,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Male,Good,Marvel,473.0
+Franklin Richards,140.0,100.0,60.0,60.0,406.0,50.0,816.0,Male,Good,Marvel,473.0
 Franklin Storm,38.0,10.0,0.0,0.0,0.0,10.0,0.0,Male,Good,Marvel,5.0
 Frenzy,63.0,53.0,35.0,100.0,38.0,52.0,341.0,Female,Bad,Marvel,0.0
 Frigga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Female,Good,Marvel,106.0
@@ -255,7 +255,7 @@ Goliath,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Male,Bad,Marvel,1.0
 Goliath II,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Other,Other,Other,0.0
 Goliath III,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Other,Other,Other,0.0
 Goliath IV,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Male,Good,Marvel,0.0
-Granny Goodness,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Female,Bad,DC,115.0
+Granny Goodness,170.0,100.0,96.0,100.0,185.0,100.0,751.0,Female,Bad,DC,115.0
 Gravity,50.0,32.0,33.0,40.0,72.0,30.0,257.0,Male,Good,Marvel,0.0
 Green Arrow,75.0,12.0,35.0,28.0,26.0,90.0,266.0,Male,Good,DC,1.0
 Green Goblin,75.0,48.0,35.0,48.0,38.0,28.0,272.0,Male,Bad,Marvel,16.0
