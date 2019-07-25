@@ -1,0 +1,254 @@
+text {
+    font-family: Montserrat, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    fill: #d9d9d9;
+}
+
+input[type=radio] {
+    margin-left: 30px;
+}
+
+h1 {
+    font-family: Montserrat, Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    font-size: 100px;
+    color: #ffffff;
+}
+
+h2 {
+    font-family: Montserrat, Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    font-size: 40px;
+    color: #ffffff;
+}
+
+.narrative-text {
+    font-family: Montserrat, Helvetica, Arial, sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    color: #a8abb6;
+    text-align: left;
+    line-height: 1.6em;
+}
+
+.chart-text {
+    font-family: Montserrat, Helvetica, Arial, sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    color: #d9d9d9;
+    text-align: center;
+}
+
+#power {
+  display: grid;
+  grid-template-columns: 3% auto 30px 350px 350px 3%;
+  grid-template-rows: 50px 50px 500px;
+  grid-column-gap: 15px;
+  align-items: start;
+}
+
+#power-text {
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 2;
+}
+
+#slider-container {
+    grid-column-start: 4;
+    grid-column-end: 6;
+    grid-row-start: 2;
+    grid-row-end: 3;
+}
+
+#Marvel-power {
+    grid-column-start: 4;
+    grid-column-end: 5;
+    grid-row-start: 3;
+    grid-row-end: 4;
+}
+
+#DC-power {
+    grid-column-start: 5;
+    grid-column-end: 6;
+    grid-row-start: 3;
+    grid-row-end: 4;
+}
+
+#power-comparison {
+  display: grid;
+  grid-template-columns: 3% 300px 300px 30px auto 3%;
+  grid-template-rows: 80px 400px;
+  grid-column-gap: 15px;
+  align-items: start;
+}
+
+#Marvel-power-comparison {
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 2;
+    grid-row-end: 3;
+}
+
+#DC-power-comparison {
+    grid-column-start: 3;
+    grid-column-end: 4;
+    grid-row-start: 2;
+    grid-row-end: 3;
+}
+
+#power-comparison-text {
+    grid-column-start: 5;
+    grid-column-end: 6;
+    grid-row-start: 1;
+    grid-row-end: 2;
+}
+
+#sphere, #graticule {
+    stroke: #ffffff;
+}
+
+#slider {
+    -webkit-appearance: none;
+    width: 200px;
+    height: 5px;
+    background: #ffffff;
+    outline: none;
+    opacity: 0.7;
+}
+
+#slider:hover {
+    opacity: 1;
+}
+
+#slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background: #ffff33;
+    cursor: pointer;
+}
+
+#slider::-moz-range-thumb {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background: #ffff33;
+    cursor: pointer;
+}
+
+#barplot-line {
+    stroke: #ffffff;
+    stroke-width: 1px;
+}
+
+.xaxis path,
+.xaxis line {
+    stroke: #d9d9d9;
+}
+
+.yaxis path,
+.yaxis line {
+    stroke: #d9d9d9;
+}
+
+/*Montserrat Fonts*/
+.thin {
+	font-weight: 100;
+	font-family: Montserrat, Helvetica, Arial, sans-serif;
+    color: #d9d9d9;
+}
+
+.extralight {
+	font-weight: 200;
+	font-family: Montserrat, Helvetica, Arial, sans-serif;
+    color: #d9d9d9;
+}
+
+.light {
+	font-weight: 300;
+	font-family: Montserrat, Helvetica, Arial, sans-serif;
+    color: #d9d9d9;
+}
+
+.regular {
+	font-weight: 400;
+	font-family: Montserrat, Helvetica, Arial, sans-serif;
+    color: #d9d9d9;
+}
+
+.medium {
+	font-weight: 500;
+	font-family: Montserrat, Helvetica, Arial, sans-serif;
+    color: #d9d9d9;
+}
+
+.semibold {
+	font-weight: 600;
+	font-family: Montserrat, Helvetica, Arial, sans-serif;
+    color: #d9d9d9;
+}
+
+.bold {
+	font-weight: 700;
+	font-family: Montserrat, Helvetica, Arial, sans-serif;
+    color: #d9d9d9;
+}
+
+.extrabold {
+	font-weight: 800;
+	font-family: Montserrat, Helvetica, Arial, sans-serif;
+    color: #d9d9d9;
+}
+
+.black {
+	font-weight: 900;
+	font-family: Montserrat, Helvetica, Arial, sans-serif;
+    color: #d9d9d9;
+}
+
+.styled-select {
+   background: url(http://i62.tinypic.com/15xvbd5.png) no-repeat 96% 0;
+   height: 29px;
+   overflow: hidden;
+   width: 240px;
+}
+
+.styled-select select {
+    /*-webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;*/
+   background: transparent;
+   border: none;
+   font-size: 14px;
+   height: 29px;
+   padding: 5px;
+   width: 268px;
+   color: #ffffff;
+}
+
+select option {
+   background-color: transparent !important;
+}
+
+.rounded {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+}
+
+.semi-square {
+   -webkit-border-radius: 5px;
+   -moz-border-radius: 5px;
+   border-radius: 5px;
+}
+
+.blue {
+    background-color: #377eb8;
+}
+
+.red {
+    background-color: #e41a1c;
+}
