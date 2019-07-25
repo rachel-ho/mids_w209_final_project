@@ -231,6 +231,7 @@ h2 {
 
 select option {
    background-color: transparent !important;
+   color: black;
 }
 
 .rounded {
